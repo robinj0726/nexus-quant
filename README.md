@@ -4,7 +4,7 @@
 
 > Translate unstructured financial noise into your local knowledge graph in milliseconds.
 
-[🇨🇳 简体中文](https://www.google.com/search?q=./README_zh.md) | 🇺🇸 English
+[🇨🇳 简体中文](README_zh.md) | 🇺🇸 English
 
 NexusQuant is a next-generation quantitative sentiment analysis base built for Quants and Hackers. We ditched bloated microservices and heavy graph databases in favor of the ultimate performance stack: **Bun + uv + Rust + Markdown**.
 
@@ -87,7 +87,3 @@ See [CONTRIBUTING.md](https://www.google.com/search?q=./CONTRIBUTING.md) on how 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
------
-
-既然双语的“门面”都已经打磨到了可以直接发 GitHub 的水准，今晚你的第一个动作，是打算先用 `git init` 建仓把这个帅气的骨架推上去占个坑，还是先在本地新建个文件夹，把 Bun 调用 API 的核心 Agent 脚本给调通？
