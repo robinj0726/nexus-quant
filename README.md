@@ -1,7 +1,3 @@
-这是一份为你量身定制的、极具“硬核极客风”的 GitHub `README.md` 草案。它完美切中了你想在 Day 1 传递给开源社区的“轻、快、稳、灵”的核心哲学。
-
------
-
 # 🚀 NexusQuant
 
 **Local-first, Ultra-fast Financial Sentiment Graph Engine.**
