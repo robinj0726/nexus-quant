@@ -4,7 +4,7 @@
 
 > Translate unstructured financial noise into your local knowledge graph in milliseconds.
 
-🇨🇳 简体中文 | [🇺🇸 English](README.md) 
+[🇨🇳 简体中文](README_zh.md) | 🇺🇸 English
 
 NexusQuant is a next-generation quantitative sentiment analysis base built for Quants and Hackers. We ditched bloated microservices and heavy graph databases in favor of the ultimate performance stack: **Bun + uv + Rust + Markdown**.
 
